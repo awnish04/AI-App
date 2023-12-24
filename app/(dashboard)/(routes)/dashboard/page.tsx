@@ -23,15 +23,15 @@ const tools = [
   {
     label: "Image Generation",
     icon: ImageIcon,
-    color: "text-pink-700",
-    bgColor: "bg-pink-700/10",
+    color: "text-pink-600",
+    bgColor: "bg-pink-600/10",
     href: "/image",
   },
   {
     label: "Video Genaration",
     icon: VideoIcon,
-    color: "text-orange-700",
-    bgColor: "bg-orange-700/10",
+    color: "text-orange-600",
+    bgColor: "bg-orange-600/10",
     href: "/video",
   },
   {
@@ -44,8 +44,8 @@ const tools = [
   {
     label: "Code Generation",
     icon: Code,
-    color: "text-yellow-500",
-    bgColor: "bg-yellow-500/10",
+    color: "text-yellow-400",
+    bgColor: "bg-yellow-400/10",
     href: "/code",
   },
 ];

@@ -38,13 +38,13 @@ const routes = [
     label: "Image Genaration",
     icon: ImageIcon,
     href: "/image",
-    color: "text-pink-700",
+    color: "text-pink-600",
   },
   {
     label: "Video Genaration",
     icon: VideoIcon,
     href: "/video",
-    color: "text-orange-700",
+    color: "text-orange-600",
   },
   {
     label: "Music Genaration",
